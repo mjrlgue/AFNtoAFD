@@ -31,3 +31,5 @@ studying at: National school of applied science - Kenitra.
 
 #License:
 You can use, publish and modify this project in any form, feel free to use it.
+
+_*"If we know coding, we don't need to learn drawing."*_
