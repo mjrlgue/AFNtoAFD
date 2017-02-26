@@ -16,9 +16,8 @@ for png output:
 #!/bin/bash
 /usr/bin/dot -Tpng demo.dot -o demo.png
 ```
-```demot.dot:``` contains the dotscript langage, ex:
+demot.dot: contains the dotScript langage; ex:
 ```
-
 digraph G{
 	a -> b;
 	b -> c;
@@ -26,3 +25,9 @@ digraph G{
 
 }
 ```
+# Authors:
+Marwane Chahoud, Badr Chtibi and Chadi Elbani.
+studying at: National school of applied science - Kenitra.
+
+#License:
+You can use, publish and modify this project in any form, feel free to use it.
